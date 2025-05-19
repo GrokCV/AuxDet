@@ -16,7 +16,7 @@ However, **most existing work in infrared small target detection (IRSTD) focuses
 
 This has led to a serious issue: current IRSTD methods often break down when evaluated under Omni-Domain settings, where imaging conditions—such as platforms, spectral bands, and resolutions—vary significantly.
 
-------
+
 
 🎯 Our core research question is:
  **In Omni-Domain IRSTD, can a model recognize the imaging domain of each input and adapt accordingly?**
@@ -78,13 +78,13 @@ data_root
                 |-- train.txt
                 |-- val.txt
         |-- Annotations
-            	|-- 00001.xml 
-            	|-- 00002.xml
-            	|-- ...
+            |-- 00001.xml 
+            |-- 00002.xml
+            |-- ...
         |-- PNGImages # Images under WideIRSTD-Full Dataset/train/images (a total of 9,000 images)
-            	|-- 00001.png 
-            	|-- 00002.png
-            	|-- ... 
+            |-- 00001.png 
+            |-- 00002.png
+            |-- ... 
 ```
 
 Remember to update the dataset paths in the code accordingly.
