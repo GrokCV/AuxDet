@@ -30,6 +30,7 @@ This has led to a serious issue: current IRSTD methods often break down when eva
 
 ## 🔍 Architecture
 
+We propose the Auxiliary Metadata Driven Detector (AuxDet), a novel framework for Omni-IRSTD that redefines the conventional visual-only paradigm by leveraging auxiliary metadata for multi-modal scene-aware optimization.
 ![AuxDet](./assets/AuxDet.jpg)
 
 ------
