@@ -30,7 +30,7 @@ This has led to a serious issue: current IRSTD methods often break down when eva
 
 ## 🔍 Architecture
 
-![AuxDet](.\assets\AuxDet.jpg)
+![AuxDet](./assets/AuxDet.jpg)
 
 ------
 
