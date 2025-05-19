@@ -76,7 +76,7 @@ data_root
         |-- ImageSets
             |-- Main # Following the dataset split from https://github.com/YeRen123455/ICPR-Track2-LightWeight/tree/main/dataset/ICPR_Track2/70_20
                 |-- train.txt
-            	   |-- val.txt
+                |-- val.txt
         |-- Annotations
             	|-- 00001.xml 
             	|-- 00002.xml
