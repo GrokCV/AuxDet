@@ -1,6 +1,9 @@
 # 🪄 AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection
 
+<p align="center">
 [![arXiv](https://img.shields.io/badge/arXiv-2505.15184-b31b1b.svg)](https://arxiv.org/abs/2505.15184)
+</p>
+
 ------
 
 Authors: Yangting Shi, Renjie He, Le Hui, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai
