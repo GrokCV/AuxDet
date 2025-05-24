@@ -88,6 +88,7 @@ data_root
             |-- 00002.png
             |-- ... 
 ```
+We convert the image bounding boxes and related auxiliary information into the XML format. You can download the annotations [here](https://drive.google.com/file/d/1uHBTLrPtAzLVc6TYPW5WQHpm4dO1HwRt/view?usp=drive_link).
 
 Remember to update the dataset paths in the code accordingly.
 
