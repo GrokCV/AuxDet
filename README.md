@@ -1,4 +1,4 @@
-<img width="1323" height="289" alt="image" src="https://github.com/user-attachments/assets/ef5609f1-77ab-4a05-a864-811d39cf358a" /># 🪄 AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection
+# 🪄 AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.15184-b31b1b.svg)](https://arxiv.org/abs/2505.15184)
 
