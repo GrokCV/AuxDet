@@ -1,4 +1,4 @@
-# 🪄 AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection
+<img width="1323" height="289" alt="image" src="https://github.com/user-attachments/assets/ef5609f1-77ab-4a05-a864-811d39cf358a" /># 🪄 AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.15184-b31b1b.svg)](https://arxiv.org/abs/2505.15184)
 
@@ -164,11 +164,12 @@ Please download it and specify the path to `"best.pth"` in the command above.
 ------
 
 ```
-@article{shi2025AuxDet,
-	title={AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection}, 
-	author={Yangting Shi and Renjie He and Le Hui and Xiang Li and Jian Yang and Ming-Ming Cheng and Yimian Dai},
-	year={2025},
-	journal={arXiv preprint arXiv:2505.15184},
+@article{shi2026auxdet,
+  title={Auxdet: Auxiliary metadata matters for omni-domain infrared small target detection},
+  author={Shi, Yangting and Zhu, Yinfei and He, Renjie and Hui, Le and Cai, Meng and Cheng, Ming-Ming and Dai, Yimian},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
